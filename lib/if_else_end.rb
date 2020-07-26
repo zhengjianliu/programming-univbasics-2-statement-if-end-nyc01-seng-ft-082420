@@ -1,6 +1,6 @@
-puts currentTime = Time.now
+puts currentTime = Time.now.to_i
 
-if currentTime.to_i%2 == 0
+if currentTime%2 == 0
   puts "Even!"
 else
   puts "odd!"

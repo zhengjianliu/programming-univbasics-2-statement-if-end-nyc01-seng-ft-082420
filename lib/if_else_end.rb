@@ -3,4 +3,4 @@ puts "Code before if...end"
 if run_code_inside
   puts "Code inside"
 end
-puts ""
+puts "Code after if...end"

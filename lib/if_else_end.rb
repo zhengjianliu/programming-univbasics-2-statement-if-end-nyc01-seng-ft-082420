@@ -1,1 +1,1 @@
-puts currentTime = Time.now.second
+puts currentTime = Time.now

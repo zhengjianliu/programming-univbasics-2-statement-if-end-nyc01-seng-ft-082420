@@ -1,1 +1,1 @@
-puts currentTime = Time.now.select_second
+puts currentTime = Time.now.second
